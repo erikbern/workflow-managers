@@ -2,7 +2,7 @@ Python
 ------
 * [Luigi](github.com/spotify/luigi) by Spotify
 * [Airflow](https://github.com/airbnb/airflow) by Airbnb: [blog post](http://nerds.airbnb.com/airflow/)
-* [Pinball](http://erikbern.com/2015/03/14/pinterest-open-sources-pinball/) by Pinterest
+* [Pinball](https://github.com/pinterest/pinball) by Pinterest
 * [doit](http://pydoit.org/)
 * [garcon](https://github.com/xethorn/garcon)
 * [snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home)
